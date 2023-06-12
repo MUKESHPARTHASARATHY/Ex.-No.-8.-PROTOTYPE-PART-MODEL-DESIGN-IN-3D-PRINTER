@@ -44,7 +44,7 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 ## Output:
 ![Screenshot (118)](https://github.com/AbishekAnand15/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118706942/553ecd7a-e36f-4357-873d-67efabe09ce6)
 
-## Name:  ABISHEK XAVIER A
-## Register Number:  212222230004
+## Name:  MUKESH P
+## Register Number:  212222240068
 ## RESULT:
 Thus a prototype of the given part model is developed using 3D Printer.
